@@ -42,3 +42,20 @@ Acceptance Criteria
 UAT Test Case
         ↓
 Validation
+
+Coverage Summary
+Area	Count
+Business Requirements	7
+Functional Requirements	7
+User Stories	6
+Acceptance Criteria	12
+UAT Test Cases	7
+BA Validation
+
+The traceability matrix provides visibility from the original business requirement through to validation.
+
+It helps identify missing requirements, ensures that requirements are covered by user stories and acceptance criteria, and supports UAT planning.
+
+Change Management
+
+If a business requirement changes during the project, the corresponding functional requirements, user stories, acceptance criteria, and UAT test cases should be reviewed and updated to maintain traceability.
