@@ -23,7 +23,7 @@ The current limitation may result in:
 - Reduced flexibility when preparing quotations
 - Additional effort for users managing complex quotations
 
-## Business Objectives
+## Business Objective
 
 The objective of this enhancement is to allow users to identify products as either Standard or Optional within a quotation.
 
