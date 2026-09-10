@@ -10,7 +10,7 @@ The enhancement focuses on allowing users to mark products as optional within a 
 
 Customers need the ability to include optional products in quotations without having those products included in the final quotation total.
 
-## Business Objective
+## Business Objectives
 
 To define business and functional requirements for an enhancement that allows users to:
 
